@@ -5,6 +5,7 @@
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jonas-marques-a206a5223/"><i>Jonas Marques</i></a> 😃️</h1>
   <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <a href="https://grupounibra.com"><i>Unibra</i></a>
+  <p align="center">Estou sempre tentando melhorar minha forma de ver esse mundo da programação, estudando, lendo livros e ebooks. Nesta área não há barreiras para quem tem força de vontade. 🤟
 </div>
 
 
