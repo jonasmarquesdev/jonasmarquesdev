@@ -1,7 +1,3 @@
-![Bem vindo ao perfil](https://github.com/jonasmarquesdev/jonasmarquesdev/blob/main/header.png)
-
-
-
 <div>
   <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jonas-marques-a206a5223/"><i>Jonas Marques</i></a> 😃️</h1>
   <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <a href="https://grupounibra.com"><i>Unibra</i></a>
