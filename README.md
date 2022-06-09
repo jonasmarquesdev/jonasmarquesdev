@@ -34,6 +34,7 @@
   
 </div>
 
-### <img align="right" src="https://media.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif" width="200">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasmarquesdev&repo=training_in_python&theme=react)](https://github.com/jonasmarquesdev/training_in_python)
+<div align="center">
+  <img style="padding-right: 60px;" height="150em" src="https://github-readme-stats.vercel.app/api/pin/?username=jonasmarquesdev&repo=training_in_python&theme=react"/>
+  <img src="https://media.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif" width="200">
+</div>
