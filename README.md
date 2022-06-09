@@ -36,4 +36,4 @@
 
 ### <img align="right" src="https://media.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif" width="200">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasmarquesdev&repo=training_in_python)](https://github.com/jonasmarquesdev/training_in_python)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasmarquesdev&repo=training_in_python&theme=react)](https://github.com/jonasmarquesdev/training_in_python)
