@@ -1,39 +1,53 @@
-<div>
-  <h1 align="center">Oi Tudo bem? Eu sou o <a href="https://www.linkedin.com/in/jonas-marques-a206a5223/"><i>Jonas Marques</i></a> 😃️</h1>
-  <p align="center">Estudo Análise e Desenvolvimento de Sistemas na <a href="https://grupounibra.com"><i>Unibra</i></a>
-  <p align="center">Estou sempre tentando melhorar minha forma de ver esse mundo da programação, estudando, lendo livros e ebooks. Nesta área não há barreiras para quem tem força de vontade. 🤟
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=94d355&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=94d355&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Jonas+Marques;I'm+19+years+old;I+from+Brasil,+PE;I+study+systems+development+at+Unibra;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jonasmarquesdev&show_icons=true&count_private=true&hide_border=true&title_color=94d355&icon_color=94d355&text_color=c9d1d9&bg_color=0d1117" alt="Jonas Marques github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmarquesdev&layout=compact&hide_border=true&title_color=94d355&text_color=94d355&bg_color=0d1117" />
 </div>
 
+![Contribution](https://activity-graph.herokuapp.com/graph?username=jonasmarquesdev&theme=gotham&hide_border=true&area=true&color=94d355)
 
-<div align="center">
-  <a href="https://github.com/jonasmarquesdev">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jonasmarquesdev&count_private=true&include_all_commits=true&show_icons=true&theme=react&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmarquesdev&theme=react&hide_border=false&&layout=compact"/>
-  </a>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jonasmarquesdev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+<a href="https://www.linkedin.com/in/jonas-marques-a206a5223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="github" height="35" width="35" src="/assets/GitHub.png">
-</div><br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jonas-marques-a206a5223/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:jonas.marques2021.jm5@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<div align="center">  
+<a href="https://portifolio-jonasmarques.netlify.app" target="_blank"><img align="center" width="20" height="20" src="./assets/favicon.ico"/>Portifolio</a>
 </div>
-
-<div align="center">
   
-  ![Snake animation](https://github.com/jonasmarquesdev/jonasmarquesdev/blob/output/github-contribution-grid-snake.svg)
+
+### Main skills:
+  ![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+
+### Tools:
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
+<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-0D1117?style=for-the-badge&logo=windows&labelColor=0D1117)&nbsp;
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office&labelColor=0D1117)&nbsp;
+
+### Other Knowledge:
+![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Boostrap](https://img.shields.io/badge/-boostrap-0D1117?style=for-the-badge&logo=bootstrap&labelColor=0D1117)&nbsp;
+![MySQL](https://img.shields.io/badge/-mysql-0D1117?style=for-the-badge&logo=mysql&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/-figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
   
-</div>
+### Studying in this moment:
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-### <img align="right" src="https://media.giphy.com/media/xYPdnwsRPZDhCxXvOi/giphy.gif" width="200">
+  <div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jonasmarquesdev}/count.svg" /></p> 
+<br></div>
+  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonasmarquesdev&repo=training_in_python&theme=react)](https://github.com/jonasmarquesdev/training_in_python)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=94d355&height=120&section=footer"/>
