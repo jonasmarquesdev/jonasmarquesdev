@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">  
-<a href="https://portifolio-jonasmarques.netlify.app" target="_blank"><img align="center" width="20" height="20" src="./assets/favicon.ico"/>Portifolio</a>
+<a href="https://jonasmarques.vercel.app" target="_blank"><img align="center" width="20" height="20" src="./assets/favicon.ico"/>Portifolio</a>
 </div>
   
 
