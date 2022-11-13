@@ -19,6 +19,8 @@
   <a href="mailto:jonas.marques2021.jm5@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+<img align="right" width="200px" height="200px" src="./src/assets/xero-code.gif" />
+
 ### Main skills:
 ![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 
