@@ -33,7 +33,7 @@
 <img align="right" width="200px" height="180px" src="./src/assets/coding.gif" /><br>
 
 ### Main skills:
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117 "React is an open source JavaScript front-end library focused on creating user interfaces on web pages.")&nbsp;
 
 ### Tools:
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC&labelColor=0D1117)&nbsp;
