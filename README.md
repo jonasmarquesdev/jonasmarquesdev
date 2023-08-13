@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=94d355&size=35&center=true&vCenter=true&width=1000&lines=Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<div align="right"><img align="right" width="200px" height="200px" src="./src/assets/img.gif" /></div>
-
 <div align="center">
   <h3>Hello all well? I'm Jonas Marques</h3>
   <h4>Study Systems Analysis and Development at <a href="https://grupounibra.com" target="_blank">Unibra</a>.<br>I'm always trying to improve my way of seeing this world<br>programming, studying, reading books and e-books.<br>In this area there are no barriers for those who have willpower.</h4>
@@ -24,13 +22,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonasmarquesdev&layout=compact&langs_count=8&hide=shell&hide_border=true&title_color=94d355&text_color=94d355&bg_color=0d1117" />
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jonasmarquesdev&theme=dracula&row=2&no-bg=true&row=3&margin-w=15&margin-h=15" />
-</p>
-
 <!-- ![Contribution](https://activity-graph.herokuapp.com/graph?username=jonasmarquesdev&theme=gotham&hide_border=true&area=true&bg_color=0d1117&color=94d355&line=bcbcbc&point=45f248) -->
-
-<img align="right" width="200px" height="180px" src="./src/assets/coding.gif" /><br>
 
 ### Main skills:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
