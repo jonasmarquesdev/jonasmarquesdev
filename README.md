@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats-jonasmarquesdev.vercel.app/api?username=jonasmarquesdev&show_icons=true&count_private=true&hide_border=true&title_color=94d355&icon_color=94d355&text_color=c9d1d9&bg_color=0d1117" alt="Jonas Marques github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats-jonasmarquesdev.vercel.app/api?username=jonasmarquesdev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=94d355&icon_color=94d355&text_color=c9d1d9&bg_color=0d1117" alt="Jonas Marques github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-jonasmarquesdev.vercel.app/api/top-langs/?username=jonasmarquesdev&layout=compact&langs_count=8&hide=shell&hide_border=true&title_color=94d355&text_color=94d355&bg_color=0d1117" />
 </div>
 
