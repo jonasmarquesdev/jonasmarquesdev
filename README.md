@@ -10,9 +10,9 @@
 
 ## 🧑‍💻 Sobre mim
 
-Desenvolvedor Full-stack com mais de 1 ano e 8 meses de experiência em produção, atuando end-to-end — do back-end ao mobile. Comecei a programar aos 17 anos e evoluí de estagiário a trainee na UITEC, assumindo autonomia no ciclo completo de desenvolvimento.
+Desenvolvedor Full-stack com mais de 2 anos de experiência em produção, atuando end-to-end — do back-end ao mobile. Comecei a programar aos 17 anos e evoluí de estagiário a júnior, assumindo autonomia no ciclo completo de desenvolvimento.
 
-- 🏢 Atualmente: **Desenvolvedor Full-stack Trainee** na UITEC (Remoto)
+- 🏢 Atualmente: **Desenvolvedor Full-stack Júnior** na UITEC (Remoto)
 - - - 📍 Localização: Cabo de Santo Agostinho, Pernambuco — disponível para remoto em todo o Brasil
     - - Tecnólogo em Análise e Desenvolvimento de Sistemas — UNIBRA (2021–2025)
       - - - 🔍 Buscando vagas: Full-stack ou PHP (Júnior/Pleno), remoto, PJ ou CLT
