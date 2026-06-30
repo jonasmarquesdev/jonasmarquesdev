@@ -1,4 +1,4 @@
-á, sou Jonas Marques 👋
+# Olá, sou Jonas Marques 👋
 
 **Desenvolvedor Full-stack** com foco em PHP | Node.js | React | Next.js | React Native
 
